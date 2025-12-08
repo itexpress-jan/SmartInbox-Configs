@@ -1,0 +1,2 @@
+# SmartInbox-Configs
+App Outlook 
