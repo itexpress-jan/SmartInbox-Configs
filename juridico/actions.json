@@ -1,0 +1,9 @@
+{
+  "custom_buttons": [
+    {
+      "label": "Portal do Cliente",
+      "action": "open_url",
+      "value": "https://itexpress.com.br/portal"
+    }
+  ]
+}
