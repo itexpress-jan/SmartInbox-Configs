@@ -1,0 +1,9 @@
+{
+  "show_dashboard": true,
+  "show_search_bar": true,
+  "show_footer": true,
+  "show_pst_usage": false,
+  "header_style": "solid",
+  "header_text": "E-mails Não Respondidos",
+  "header_show_username": true
+}
