@@ -1,0 +1,9 @@
+{
+  "primary": "#0C3C4C",
+  "secondary": "#16A34A",
+  "text_color": "#ffffff",
+  "header_height": 50,
+  "logo": "logos/itexpress_light.png",
+  "logo_dark": "logos/itexpress_dark.png",
+  "theme_mode": "auto"
+}
