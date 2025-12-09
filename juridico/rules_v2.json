@@ -1,46 +1,12 @@
 {
-  "unread_color": "#1D4ED8",
-  "read_color": "#16A34A",
-  "replied_color": "#7C7C7C",
+  "domain_rules": [
+    { "domain": "puma.com", "client": "PUMA" },
+    { "domain": "wella.com", "client": "WELLA" },
+    { "domain": "schaeffler.com", "client": "SCHAEFFLER" }
+  ],
 
-  "synonyms": {
-    "ALPARGATAS": ["alpa", "alparg", "alpargatas", "havaianas", "publicações alpargatas"],
-    "PUMA": ["puma se", "puma latam", "puma brasil", "equipes puma"],
-    "SCHAEFFLER": ["schaeff", "schaeff br", "schaeffler group", "schaeffler-br"],
-    "PARETO": ["pareto ia", "pareto intelligence", "pareto dados"],
-    "LOUIS VUITTON BRASIL": ["lv brasil", "louis vuitton br", "equipes lv", "lvbr"],
-    "LOREAL": ["l'oreal", "loreal paris", "grupo loreal"],
-    "UNILEVER": ["uni lever", "grupo unilever"],
-    "NIKE": ["nike br", "nike brasil"],
-    "J&J": ["johnson", "johnson & johnson", "jnj", "j&j brasil"],
-    "PHILIP MORRIS": ["pm brasil", "pm international", "phillip morris", "philip moris"],
-    "JUUL": ["juul labs", "juul inc"],
-    "MARC JACOBS": ["marc jacob", "jacobs group"],
-    "LACOSTE": ["lacoste br"],
-    "VANS": ["vans br", "vans brasil"],
-    "TOMMY HILFIGER": ["tommy", "tommy hilf", "hilfiger"],
-    "UNDER ARMOUR": ["ua", "underarmour"],
-    "OSKLEN": ["osklenn", "osk len"],
-    "PERNOD RICARD": ["ricard group", "pernod"]
-  },
-
-  "domain_map": {
-    "puma.com": "PUMA",
-    "puma.com.br": "PUMA",
-    "alpargatas.com": "ALPARGATAS",
-    "havaianas.com": "ALPARGATAS",
-    "schaeffler.com": "SCHAEFFLER",
-    "pareto.io": "PARETO",
-    "pareto.ai": "PARETO",
-    "lv.com": "LOUIS VUITTON BRASIL",
-    "lvmh.com": "LOUIS VUITTON BRASIL",
-    "loreal.com": "LOREAL",
-    "unilever.com": "UNILEVER",
-    "nike.com": "NIKE",
-    "jnj.com": "J&J",
-    "morris.com": "PHILIP MORRIS",
-    "juul.com": "JUUL"
-  },
-
-  "fuzzy_threshold": 82
+  "keyword_rules": [
+    { "client": "WELLA", "keywords": ["wella company", "wella training"] },
+    { "client": "ALPARGATAS", "keywords": ["havaianas", "alpa", "alpargatas"] }
+  ]
 }
