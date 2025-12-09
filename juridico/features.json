@@ -4,5 +4,5 @@
   "enable_dashboard": true,
   "enable_blocklist": true,
   "update_interval_minutes": 5,
-  "max_emails_display": 300
+  "max_emails_display": 100
 }
