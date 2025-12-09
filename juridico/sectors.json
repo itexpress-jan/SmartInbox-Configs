@@ -68,5 +68,8 @@
   ],
    "Financeiro": ["fatura", "boleto", "pagamento", "nota fiscal", "recibo"],
   "Pessoal / RH": ["holerite", "recibo", "folha de pagamento", "contracheque"],
-  "Delegacia": ["BO", "boletim", "ocorrência"]
+  "Delegacia": ["BO", "boletim", "ocorrência"],
+  
+  "Recibos / Holerite": ["recibo", "holerite", "folha", "contracheque", "holerite", "Adobe Sign"]
+
 }
