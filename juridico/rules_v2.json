@@ -1,0 +1,9 @@
+{
+  "unread_color": "#1D4ED8",
+  "read_color": "#22C55E",
+  "replied_color": "#7C7C7C",
+  "group_rules": [
+    { "keyword": "NF", "group": "Financeiro" },
+    { "keyword": "contrato", "group": "Jurídico" }
+  ]
+}
