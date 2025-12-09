@@ -1,1 +1,9 @@
 
+{
+  "custom_buttons": [
+    {
+      "label": "Portal do Cliente",
+      "url": "https://seusite.com"
+    }
+  ]
+}
