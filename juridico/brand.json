@@ -1,6 +1,6 @@
 {
   "primary": "#274472",
-  "secondary": "#274472",
+  "secondary": "red",
   "text_color": "#ffffff",
   "header_height": 50,
   "logo": "logos/itexpress_light.png",
