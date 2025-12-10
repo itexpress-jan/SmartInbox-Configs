@@ -1,0 +1,25 @@
+{
+    "setores": {
+        "Diretoria": [
+            "GISELLA",
+            "RICHARD",
+            "LEONARDO"
+        ],
+        "ADM": [
+            "IGOR"
+        ],
+        "Engenharia": [
+            "CARLOS HENRIQUE",
+            "DAVIDSON",
+            "HENRIQUE LOMELINO",
+            "JULIO CESAR",
+            "LEANDRO LESKOVAR",
+            "MARCELO AMAZONAS",
+            "MARCELO AUGUSTO",
+            "PATRICIA GONCALVES",
+            "SIMONE",
+            "ULYSSES",
+            "WESLEY"
+        ]
+    }
+}

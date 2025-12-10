@@ -1,0 +1,60 @@
+{
+    "domain_rules": [
+        {
+            "domain": "carlisa.com",
+            "client": "CARDIV"
+        },
+        {
+            "domain": "multiplan.com.br",
+            "client": "MTP001"
+        },
+        {
+            "domain": "plurix.com.br",
+            "client": "PLU001"
+        },
+        {
+            "domain": "hsi.com",
+            "client": "HSI001"
+        }
+    ],
+    "keyword_rules": [
+        {
+            "client": "CARDIV",
+            "keywords": [
+                "cardiv",
+                "carlisa"
+            ]
+        },
+        {
+            "client": "MTP001",
+            "keywords": [
+                "mtp001",
+                "multiplan",
+                "torre"
+            ]
+        },
+        {
+            "client": "EC",
+            "keywords": [
+                "escritório central",
+                "adm",
+                "ec"
+            ]
+        },
+        {
+            "client": "HSI001",
+            "keywords": [
+                "hsi",
+                "atibaia",
+                "reserva"
+            ]
+        },
+        {
+            "client": "PLU001",
+            "keywords": [
+                "plurix",
+                "amigão"
+            ]
+        }
+    ]
+}

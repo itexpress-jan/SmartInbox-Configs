@@ -1,0 +1,8 @@
+{
+    "enable_task_checker": true,
+    "enable_pst_monitor": true,
+    "enable_dashboard": true,
+    "enable_blocklist": true,
+    "update_interval_minutes": 5,
+    "max_emails_display": 250
+}
