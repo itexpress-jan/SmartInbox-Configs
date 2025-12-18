@@ -1,75 +1,52 @@
 {
   "ADM": [
-    "rh", "folha de pagamento", "beneficio", "benefício",
-    "contrato de trabalho", "admissao", "admissão",
-    "curriculo", "currículo", "recrutamento"
+    "rh", "beneficio", "beneficio", "admissao",
+    "contrato de trabalho", "curriculo", "recrutamento"
   ],
+
   "Contencioso": [
-    "intimacao", "intimação", "citacao", "citação",
-    "prazo processual", "prazo para manifestacao", "prazo para manifestação",
-    "processo", "acao judicial", "ação judicial",
-    "contestacao", "contestação", "recurso",
-    "embargos", "agravo", "apelacao", "apelação",
-    "publicacao dj", "publicação dj", "movimentacao processual"
+    "intimacao", "citacao", "prazo processual",
+    "processo", "acao judicial", "contestacao",
+    "recurso", "embargos", "agravo", "apelacao"
   ],
+
   "TI": [
-    "security code", "codigo de seguranca", "código de segurança",
-    "login", "senha", "password", "reset password",
-    "portal", "suporte tecnico", "helpdesk", "chamado ti",
-    "servidor", "vpn", "mfa", "autenticacao", "autenticação"
+    "security code", "codigo de seguranca", "login",
+    "senha", "reset password", "vpn", "mfa",
+    "autenticacao", "helpdesk"
   ],
+
   "Delegacia": [
-    "delegacia", "policia civil", "polícia civil",
-    "policia federal", "polícia federal",
-    "boletim de ocorrencia", "boletim de ocorrência",
-    "b.o.", "bo",
-    "autoridade policial", "investigacao criminal",
-    "flagrante", "termo circunstanciado"
+    "delegacia", "policia civil", "policia federal",
+    "boletim de ocorrencia", "b.o", "bo",
+    "autoridade policial", "flagrante"
   ],
-  "Alfandegas": [
-    "receita federal", "aduana", "alfandega", "alfândega",
-    "fiscalizacao aduaneira", "fiscalização aduaneira",
-    "despacho aduaneiro", "canal vermelho", "canal amarelo",
-    "carga apreendida", "apreensao de mercadoria"
-  ],
+
   "Diretoria": [
-    "sari franco", "luiz claudio gare", "luiz claudio garé",
-    "diretoria", "ceo", "socio", "sócio",
+    "diretoria", "ceo", "socio",
     "aprovacao estrategica", "reuniao diretoria"
   ],
+
   "Marketing": [
-    "campanha", "midia", "mídia", "post", "postagem",
-    "instagram", "facebook", "tiktok", "youtube",
-    "arte", "criativo", "peça grafica", "peça gráfica",
-    "material promocional", "press release","Comunicado"
+    "campanha", "midia", "postagem",
+    "instagram", "facebook", "youtube",
+    "press release", "comunicado"
   ],
-  "Investigacao": [
-    "relatorio de investigacao", "relatório de investigação",
-    "monitoramento", "investigacao de mercado", "investigação de mercado",
-    "investigacao online", "coleta de dados", "coleta de provas",
-    "levantamento", "mapa de vendedores"
-  ],
-  "Estagiarios": [
-    "estagiario", "estagiário", "estagio", "estágio",
-    "relatorio de estagio", "supervisor de estagio"
-  ],
+
   "Financeiro": [
-    "nota fiscal", "nf-e", "nfe", "boleto", "fatura",
-    "recibo", "holerite", "contracheque", "contra cheque",
-    "adiantamento", "pagamento", "deposito", "depósito",
-    "remessa", "cobranca", "cobrança", "contas a pagar",
+    "nota fiscal", "nfe", "boleto",
+    "fatura", "cobranca", "contas a pagar",
     "contas a receber"
   ],
-  "Noticias": [
-    "reportagens diarias", "reportagens diárias",
-    "clipping",
-    "relatorio de imprensa", "relatório de imprensa",
-    "noticias", "notícias"
-  ],
-   "Financeiro": ["fatura", "boleto", "pagamento", "nota fiscal", "recibo"],
-  "Pessoal / RH": ["holerite", "recibo", "folha de pagamento", "contracheque"],
-  "Delegacia": ["BO", "boletim", "ocorrência"],
-  
-  "Recibos / Holerite": ["recibo", "holerite", "folha", "contracheque", "holerite", "Adobe Sign"]
 
+  "Recibos / Holerite": [
+    "recibo", "holerite", "contracheque",
+    "folha de pagamento", "adiantamento",
+    "salario", "decimo terceiro", "13 salario",
+    "adobe sign"
+  ],
+
+  "Noticias": [
+    "reportagens", "clipping", "noticias"
+  ]
 }
