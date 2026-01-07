@@ -1,1 +1,50 @@
 
+{
+  "simple": {
+    "name": "Plano Simples",
+    "price": 29.90,
+    "features": {
+      "dashboard": true,
+      "sla": true,
+      "popup_notifications": true,
+      "filters": true,
+
+      "export": false,
+      "multi_accounts": false,
+      "branding": false,
+      "team_mode": false
+    }
+  },
+
+  "medium": {
+    "name": "Plano Médio",
+    "price": 49.90,
+    "features": {
+      "dashboard": true,
+      "sla": true,
+      "popup_notifications": true,
+      "filters": true,
+
+      "export": true,
+      "multi_accounts": true,
+      "branding": false,
+      "team_mode": false
+    }
+  },
+
+  "full": {
+    "name": "Plano Full",
+    "price": 99.90,
+    "features": {
+      "dashboard": true,
+      "sla": true,
+      "popup_notifications": true,
+      "filters": true,
+
+      "export": true,
+      "multi_accounts": true,
+      "branding": true,
+      "team_mode": true
+    }
+  }
+}
