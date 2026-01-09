@@ -8,8 +8,6 @@
   "keyword_rules": [
     { "client": "WELLA", "keywords": ["wella company", "wella training"] },
     { "client": "ALPARGATAS", "keywords": ["havaianas", "alpa", "alpargatas"] }
-  ],
-{
-  "rules": []
-}
+  ]
+
 
